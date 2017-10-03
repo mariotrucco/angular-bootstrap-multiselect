@@ -1,9 +1,10 @@
 {
-  "name": "angular-bootstrap-multiselect",
-  "version": "0.5.1",
+  "name": "mario-angular-bootstrap-multiselect",
+  "version": "0.0.1",
   "authors": [
     "Sebastian Hammerl, Getslash GmbH",
-    "Amitava Saha"
+    "Amitava Saha",
+    "Mario Trucco"
   ],
   "description": "A multiselect dropdown list for AngularJS styled to fit the Twitter Bootstrap standard design",
   "main": [
@@ -22,7 +23,7 @@
     "select"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/sebastianha/angular-bootstrap-multiselect",
+  "homepage": "https://github.com/mariotrucco/angular-bootstrap-multiselect",
   "ignore": [
     "**/.*",
     "node_modules",
